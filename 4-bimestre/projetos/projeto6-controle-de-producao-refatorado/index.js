@@ -48,3 +48,4 @@ if (mediaDiaria >= metadeMaior) {
 } else {
     console.log("Produção abaixo do ideal.")
 }
+//
